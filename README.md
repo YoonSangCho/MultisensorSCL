@@ -3,4 +3,4 @@ This repository provides the official implementation of MultisensorSCL. The code
 
 
 # Reference
-"Supervsed Conctastive Learning for Multisensor Signals Classification in Automobile Engine Manufacturing"
+"Supervsed Conctastive Learning for Multisensor Signals Classification in Automobile Engine Manufacturing", IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, VOL. 20, NO. 5, pp.7764-7776,MAY 2024.
